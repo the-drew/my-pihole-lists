@@ -1,3 +1,4 @@
 ping.ui.com
 trace.svc.ui.com
 altavista.com
+wpad.rhinocommunications.net
