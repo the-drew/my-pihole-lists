@@ -68,3 +68,4 @@ settings-win.data.microsoft.com
 wdcp.microsoft.com
 apicache.vudu.com
 app-measurement.com
+thumpertalk.com
