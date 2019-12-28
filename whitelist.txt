@@ -69,3 +69,5 @@ wdcp.microsoft.com
 apicache.vudu.com
 app-measurement.com
 thumpertalk.com
+audible.sc.omtrdc.net
+mobile.audible.com
