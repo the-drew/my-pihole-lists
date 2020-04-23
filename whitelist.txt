@@ -72,3 +72,4 @@ thumpertalk.com
 audible.sc.omtrdc.net
 mobile.audible.com
 beacon.schneidercorp.com
+sdk.tigertext.me
